@@ -1,0 +1,58 @@
+{ 
+  "items": [
+      
+      {
+          "name": "Hamburgers",
+          "children": [
+              {
+                  "name": "X-bacon",
+                  "information": "Pão,hamburger e bacon",
+                  "price": "R$8,00"
+              },
+              {
+                  "name": "X-tudo",
+                  "information": "Pão,hamburger,mussarela,ovo,bacon,presunto e molho especial",
+                  "price": "R$14,00"
+              },
+              {
+                  "name": "X-cheedar",
+                  "information": "Pão,hamburger e cheedar",
+                  "price": "R$7,00"
+              },
+              {
+                  "name": "X-vegan",
+                  "information": "Pão,hamburger de soja e salada de alface",
+                  "price": "R$12,00"
+              }
+              
+              
+           ]
+      },
+      {
+          "name": "Bebidas",
+          "children": [
+              {
+                  "name":" Água",
+                  "price": "R$2,00"
+              },
+
+              {
+                  "name":"Guaravita",
+                  "price": "R$1,50"
+              },
+
+              {
+                  "name":"Refrigerante",
+                  "price": "R$7,50"
+              },
+
+              {
+                  "name":"Suco",
+                  "price": "R$3,00"
+              }
+              
+
+          ]
+      }
+  ]
+}
